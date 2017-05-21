@@ -6,9 +6,7 @@ permalink: /about/
 
 Red Devil - Minimalism - Football
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a B.E graduate in Information Science from Sri Jayachamrajendra College of Engineering, Mysore. My favourite subjects are Mathematics and Data Structures. I love playing Football.
 
 ### Contact me
 
