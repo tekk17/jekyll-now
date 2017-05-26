@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: My Disillusionment With The Game This Season
 ---
 The football season is coming to a close, one by one all of them are about to finish their final rounds, titles in two of the major leagues, Germany and England have already been decided with Italy and Spain to follow tonight. There’s a top four race to be won in England, an FA Cup final, a Europa League Final and finally the climax on June 3 with the Champions League Final in Cardiff.
 
